@@ -4,6 +4,7 @@
 ### **Skills**
 - React
 - React Native
+- Svelte
 - Node
 - MongoDB
 
