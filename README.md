@@ -2,11 +2,10 @@
 <h3 align="center">Javascript Developer</h3>
 
 ### **Skills**
-- React
-- React Native
 - Svelte
+- SvelteKit
+- React
 - Node
-- MongoDB
 
 ### **Connect with me:**
 - **kevin170597@gmail.com**
