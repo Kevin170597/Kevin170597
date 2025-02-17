@@ -9,7 +9,3 @@
 
 ### **Connect with me:**
 - **kevin170597@gmail.com**
-
-<h3 align="left">Linkedin</h3>
-
-> https://www.linkedin.com/in/kevin-nahuel-mendoza/
